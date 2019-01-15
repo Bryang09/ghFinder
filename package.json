@@ -1,0 +1,23 @@
+{
+  "name": "ghFinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryang09/ghFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryang09/ghFinder/issues"
+  },
+  "homepage": "https://bryang09.github.io/construction",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
